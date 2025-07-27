@@ -36,6 +36,6 @@ Rebuilt a CMS detection tool from scratch with added features: Drupal versioning
 ## 📫 Contact Me
 - 📧 Email: syarifrian2@gmail.com
 - 📞 Phone: +62 823 9738 5055
-- 🌐 LinkedIn: [linkedin.com/in/syarifrian](https://www.linkedin.com/in/syarifrian)
-- 📷 Instagram: [@syarifrian](https://www.instagram.com/syarifrian) _(for outreach/showcase)_
+- 🌐 LinkedIn: [linkedin.com/in/syarifrian](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BGcCWCLCETHWdWU4B1Rjvyw%3D%3D)
+
 
